@@ -20,19 +20,18 @@ In either case, all the spirits trapped inside the house, including the Rousseau
 
 Player death is always a possibility in Dungeons & Dragons, but Chateau Rousseau particularly indulges in taking the life of its inhabitants. To that end, a few house rules regarding character creation and running the game are recommended:
 
-- Party is 5th-level
 - All party members start with either a common or uncommon magic item, or an additional 200 gold pieces.
   - Any gold can be spent before the adventure on additional equipment if desired.
   - Spells that consume material components of value are satisfied by having an equivalent amount of gold (after which the gold is consumed like normal material component usage). For this reason, spellcasters are recommended to start with extra gold if they plan on using more powerful spells.
-- Attuning to items works as normal, but attunement takes 1 minute instead of requiring a short rest.
+- Attuning to items works as normal, but Attunement takes 1 minute instead of requiring a short rest.
 
 If a player character dies, the character immediately returns as a ghost. They regain all spell slots, and other features are restored as if they completed a long rest, with the following changes:
 
-- Their hit point maximum is halved.
+- Their Hit Point Maximum is halved.
 - Their creature type changes to Undead.
 - All their attack actions count as magical damage for the purpose of overcoming resistance or immunity.
 - When engaged in combat against Goren, they are considered to be heavily obscured from him, as he has difficulty perceiving ghosts.
-- If a ghost character is reduced to zero hit points again, they are destroyed and cannot be restored to life short of divine intervention, the _wish_ spell, or similarly powerful features.
+- If a ghost character is reduced to zero Hit Points again, they are destroyed and cannot be restored to life short of divine intervention, the _wish_ spell, or similarly powerful features.
 
 If the party succeeds in escaping Chateau Rousseau or defeating Goren, ghost players come back to life and leave with the rest of the party, unless their spirits were destroyed.
 
@@ -84,7 +83,7 @@ This can easily cause party members to become separated if they are not careful.
 
 To prevent overly difficult tracking on the Dungeon Master's part, if two or more different doors are opened at once, any subsequent doors open to rooms on the same floor as the first door opened. This connection persists until all doors are closed.
 
-The ghosts are unaffected by this room randomization as they can bypass the doors and phase through the walls. Additionally, a creature attuned to the Mariner's Bow and looking through its scope is able to open a door to its correct room, allowing others to follow them inside. Otherwise, all doors, walls, ceilings, and floors are magically protected and strengthened such that creatures are unable to destroy them or magically pass through them.
+The ghosts are unaffected by this room randomization as they can bypass the doors and phase through the walls. Additionally, a creature Attuned to the Mariner's Bow and looking through its scope is able to open a door to its correct room, allowing others to follow them inside. Otherwise, all doors, walls, ceilings, and floors are magically protected and strengthened such that creatures are unable to destroy them or magically pass through them.
 
 ## House layout
 
@@ -186,43 +185,52 @@ Items are listed in alphabetical order. All items listed here serve specific pur
 
 ### Signet Rings
 
-Three rings, each inset with a different precious stone and bearing the Rousseau family seal. All three rings must be pressed against the corresponding pads on the front door to open it and leave the House, but each ring also has individual abilities. If a player attunes to a signet ring, provide them the initial item description, but omit the curse until its conditions are triggered, unless they have some means to identify the nature of a cursed item.
+Three rings, each inset with a different precious stone and bearing the Rousseau family seal. All three rings must be pressed against the corresponding pads on the front door to open it and leave the House, but each ring also has individual abilities. If a player Attunes to a signet ring, provide them the initial item description, but omit the curse until its conditions are triggered, unless they have some means to identify the nature of a cursed item.
 
 ### Item Descriptions
 
 #### Emerald Signet
-_Ring, legendary (requires attunement)_
+_Ring, legendary (requires Attunement)_
 
-This silver ring is inset with an emerald which displays the Rousseau family seal in platinum lining on its surface. While attuned to this ring, any spells you cast that restore hit points or add temporary hit points add 1d6 to the total hit points gained, and you can cast the _spare the dying_ cantrip.
+This silver ring is inset with an emerald which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, any spells you cast that restore Hit Points or add Temporary Hit Points add 1d6 to the total Hit Points gained, and you can cast the _spare the dying_ cantrip.
 
-Additionally, three times per day, you can cast _bless_, _cure wounds_, _healing word_, or _lesser restoration_ through the ring. If you do not have the ability to cast spells normally, Wisdom is your spellcasting ability when casting spells through this ring.
+Additionally, the ring has 3 charges. You can cast spells through the ring using your spellcasting ability, each of which has a charge cost:
 
-**Curse.** After the third spell is cast using this ring, it glows brightly and infuses you with wild necromancy magic, subjecting you to a minor curse. While cursed in this manner, every time an ally within 30 feet of you takes damage, that damage is split evenly between you and the ally before applying resistance, immunity, or any other damage modifiers. Damage you take in this manner cannot be reduced. The curse persists even if you end possession of or attunement to the ring, unless another creature attunes to it. Otherwise, the curse ends at dawn, at which point the ring’s spell uses reset.
+- _bless_: 1 charge
+- _cure wounds_: 2 charges
+- _healing word_: 2 charges
+- _lesser restoration_: 3 charges
 
-#### Mariner’s Bow
-_Weapon (shortbow), rare (requires attunement)_
+If you do not have the ability to cast spells normally, Wisdom is your spellcasting ability when casting spells through this ring. The ring regains all its charges at dawn.
+
+**Curse.** The first time a charge has been expended, the ring glows brightly and infuses you with wild necromancy magic, subjecting you to a minor curse. While cursed in this manner, every time an ally within 30 feet of you takes damage, that damage is split evenly between you and the ally before applying resistance or immunity. Damage you take in this manner cannot be reduced. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
+
+#### Mariner's Bow
+_Weapon (shortbow), rare (requires Attunement)_
 
 This shortbow has multiple tiny lenses embedded in the body. These lenses allow the wielder a clearer view of their target, but also are magically enchanted to see through illusions and magical barriers. You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
-While aiming with the bow, you can see invisible creatures and objects, and targets do not benefit from partial cover.
+Additionally, while aiming with the bow, you can see invisible creatures and objects, and targets do not benefit from partial cover.
 
 #### Ruby Signet
-_Ring, legendary (requires attunement)_
+_Ring, legendary (requires Attunement)_
 
-This gold ring is inset with a ruby which displays the Rousseau family seal in platinum lining on its surface. While attuned to this ring, you gain +1 to all your melee attack rolls and grapple checks as the attacker or defender. You also gain +1 to your armor class.
+This gold ring is inset with a ruby which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, you gain +1 to all your melee attack rolls and grapple checks as the attacker or defender. You also gain +1 to your Armor Class.
 
-Additionally, three times per day, if an ally within 30 feet of you is hit by an attack you can see, as a reaction, you can magically teleport to switch places with the ally, turning yourself into the target of the attack. The original attack roll is compared to your AC, potentially turning the hit into a miss.
+Additionally, the ring has 3 charges. If an ally within 30 feet of you is hit by an attack you can see, as a Reaction, you can expend a charge to magically teleport and switch places with the ally, turning yourself into the target of the attack. The original attack roll is compared to your Armor Class, potentially turning the hit into a miss. The ring regains all its charges at dawn.
 
-**Curse.** After you use this reaction three times, the ring glows brightly and infuses you with wild conjuration magic, subjecting you to a minor curse. While cursed in this manner, unless you have already used your reaction this round, you teleport and switch places as a reaction automatically. When the teleport occurs in this manner, the triggering attack automatically hits you, and you take an additional 1d4 necrotic damage. The curse persists even if you end possession of or attunement to the ring, unless another creature attunes to it. Otherwise, the curse ends at dawn, at which point the ring’s reaction uses reset.
+**Curse.** The third time a charge has been expended, the ring glows brightly and infuses you with wild conjuration magic, subjecting you to a minor curse. While cursed in this manner, unless you have already used your reaction this round, you teleport and switch places as a reaction automatically. When the teleport occurs in this manner, the triggering attack automatically hits you, and you take an additional 1d4 Necrotic damage. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
 #### Sapphire Signet
-_Ring, legendary (requires attunement)_
+_Ring, legendary (requires Attunement)_
 
-This ring is carved from animal bone and is inset with a sapphire which displays the Rousseau family seal in platinum lining on its surface. While attuned to this ring, you have advantage on Constitution saving throws made to maintain concentration, and you can cast the _primal savagery_ cantrip.
+This ring is carved from animal bone and is inset with a sapphire which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, you have advantage on Constitution saving throws made to maintain concentration, and you can cast the _primal savagery_ cantrip.
 
-Additionally, once per day, you can cast the _polymorph_ spell through the ring targeting yourself. While polymorphed, all of your attacks are considered magical for the purpose of overcoming resistance or immunity to attack damage. When selecting a target for an attack while polymorphed by the ring, you must first succeed on a DC 5 Intelligence saving throw, or your target is selected at random from all viable creatures in range as your bestial instincts temporarily take over.
+Additionally, you can cast the _polymorph_ spell through the ring using your spellcasting ability and targeting yourself. While polymorphed, all of your attacks are considered magical for the purpose of overcoming resistance or immunity to attack damage. When selecting a target for an attack while polymorphed by the ring, you must first succeed on a DC 5 Intelligence saving throw, or your target is selected at random from all viable creatures in range as your bestial instincts temporarily take over.
 
-**Curse.** After the polymorph spell ends, the ring glows brightly and infuses you with wild transmutation magic, subjecting you to a minor curse. While cursed in this manner, whenever you take damage, you must succeed on a DC 10 Wisdom saving throw or you are polymorphed into a sheep for 1 minute. You can repeat this saving throw at the end of each of your turns (using the sheep’s Wisdom score), ending the polymorph on a successful save. The curse persists even if you end possession of or attunement to the ring, unless another creature attunes to it. Otherwise, the curse ends at dawn, at which point the ring’s _polymorph_ spell use resets.
+If you do not have the ability to cast spells normally, Wisdom is your spellcasting ability when casting spells through this ring. Once you have cast _polymorph_ using the ring, it can't do so again until the next dawn.
+
+**Curse.** After the _polymorph_ spell ends, the ring glows brightly and infuses you with wild transmutation magic, subjecting you to a minor curse. While cursed in this manner, whenever you take damage, you must succeed on a DC 10 Wisdom saving throw or you are polymorphed into a sheep for 1 minute. You can repeat this saving throw at the end of each of your turns, ending the polymorph on a successful save. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
 ## The Rousseau Family
 
@@ -260,7 +268,7 @@ Ulvaeus is second-born and comes off as a competitive jock.
 
 This Rousseau child has a competitive streak, and is always looking for new challengers. They can be found in the game room (**R5**) playing billiards.
 
-If the party asks them for help, they offer a valuable magic item, the Mariner's Bow, which will allow the party to navigate the House without succumbing to its door randomization. In exchange, one person must defeat Ulvaeus in a game of billiards, and agree to sacrifice some of their life force if they lose; this sacrifice subjects the individual to a minor curse which reduces their hit point maximum by 1d4 hit points. This reduction remains until the curse is removed.
+If the party asks them for help, they offer a valuable magic item, the Mariner's Bow, which will allow the party to navigate the House without succumbing to its door randomization. In exchange, one person must defeat Ulvaeus in a game of billiards, and agree to sacrifice some of their life force if they lose; this sacrifice subjects the individual to a minor curse which reduces their Hit Point Maximum by 1d4 Hit Points. This reduction remains until the curse is removed.
 
 The billiards game is accomplished by a simple series of contested Dexterity or Intelligence checks. The player chooses which ability score is used by both contestants, and can change this choice each time. The first challenger to win five contests is the winner of the game. Players can also come up with alternative methods, such as attempting to cheat with Sleight of Hand (Dexterity) checks (Ulvaeus will never cheat), or their friends can assist with magic.
 
@@ -300,7 +308,7 @@ _**Telekinetic Thrust.**_ Ulvaeus targets a creature or unattended object within
 
 If the target is a creature, it must succeed on a DC 12 Strength saving throw, or it is hurled up to 30 feet in any direction, including upward. If the hurled creature then comes into contact with a hard surface or heavy object, the target takes 1d6 damage per 10 feet moved.
 
-If the target is an object that isn’t being worn or carried, Ulvaeus hurls it up to 30 feet in any direction. Ulvaeus can use the object as a ranged weapon, attacking one creature along the object’s path (+5 to hit) and dealing 5 (2d4) bludgeoning damage on a hit.
+If the target is an object that isn't being worn or carried, Ulvaeus hurls it up to 30 feet in any direction. Ulvaeus can use the object as a ranged weapon, attacking one creature along the object's path (+5 to hit) and dealing 5 (2d4) bludgeoning damage on a hit.
 
 ### Neta Rousseau
 
@@ -312,7 +320,7 @@ Neta used to wander the halls of the House but hasn't left the library (**R4**) 
 
 If the party asks her for help, she will offer useful information. She learned how to leave the House after she died, and will explain how to use the signet rings and where to find two of them; she never found the _Ruby Signet_ but assumes it's in the one room she can't visit, that of her mother Lynistad. She also can tell them another route into Lynistad's room since the front door is impenetrable: the dumbwaiter in the kitchen (**R9**) connects to it directly. Before providing any of these helpful clues, she asks the party for a new book that she's never read before. This challenge is open-ended; characters can give her a journal, spell book, or any other reading material from their starting equipment, and it will generally satisfy her request.
 
-If the party has no books to offer, she will gladly take some life force from one volunteer in exchange. This sacrifice subjects the individual to a minor curse which reduces their hit point maximum by 1d4 hit points. This reduction remains until the curse is removed.
+If the party has no books to offer, she will gladly take some life force from one volunteer in exchange. This sacrifice subjects the individual to a minor curse which reduces their Hit Point Maximum by 1d4 Hit Points. This reduction remains until the curse is removed.
 
 Like Ulvaeus, Neta also is happy to challenge the party to friendly combat for the information. If the party agrees, or if they attempt to attack Neta, a **swarm of animated books** begins to magically swirl about, and a **magma mephit** leaps out of the fireplace. Neta will let her creations fight for her but will defend herself if attacked.
 
@@ -397,7 +405,7 @@ _**Spider Climb.**_ Goren can climb difficult surfaces, including upside-down on
 
 _**Multiattack.**_ Goren makes up to three attacks: one with his bite, and two with his claws.
 
-_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) piercing damage, and the creature must make a DC 13 Constitution saving throw. On a failed save, the creature's hit point maximum is reduced by the amount of damage taken from Goren's bite, Goren regains half that number of hit points, and the creature is frightened of Goren for 1 minute. The frightened creature can make a DC 13 Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success. The creature's hit point maximum is restored to normal after a long rest.
+_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) piercing damage, and the creature must make a DC 13 Constitution saving throw. On a failed save, the creature's Hit Point Maximum is reduced by the amount of damage taken from Goren's bite, Goren regains half that number of Hit Points, and the creature is frightened of Goren for 1 minute. The frightened creature can make a DC 13 Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success. The creature's Hit Point Maximum is restored to normal after a long rest.
 
 _**Claws.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
