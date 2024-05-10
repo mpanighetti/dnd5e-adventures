@@ -173,7 +173,7 @@ The dining table has five places set, presumably for the Rousseau family. The pl
 
 #### Closet (R11)
 
-A walk-in closet full of coats in varying states of decay. An **[animated pair of boots]()** and an **[animated corset]()** are hiding inside and will attack if the players search the room. Once these threats are defeated, a pair of _winged boots_ can be found.
+A walk-in closet full of coats in varying states of decay. An **[animated pair of boots](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/animated-pair-of-boots.md)** and an **[animated corset](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/animated-corset.md)** are hiding inside and will attack if the players search the room. Once these threats are defeated, a pair of _winged boots_ can be found.
 
 #### Ballroom (R12)
 
@@ -189,7 +189,7 @@ Three rings, each inset with a different precious stone and bearing the Rousseau
 
 ### Item Descriptions
 
-#### Emerald Signet
+#### [Emerald Signet](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/rings/emerald-signet.md)
 _Ring, legendary (requires Attunement)_
 
 This silver ring is inset with an emerald which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, any spells you cast that restore Hit Points or add Temporary Hit Points add 1d6 to the total Hit Points gained, and you can cast the _spare the dying_ cantrip.
@@ -205,14 +205,14 @@ If you do not have the ability to cast spells normally, Wisdom is your spellcast
 
 **Curse.** The first time a charge has been expended, the ring glows brightly and infuses you with wild necromancy magic, subjecting you to a minor curse. While cursed in this manner, every time an ally within 30 feet of you takes damage, that damage is split evenly between you and the ally before applying resistance or immunity. Damage you take in this manner cannot be reduced. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
-#### Mariner's Bow
+#### [Mariner's Bow](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/weapons/mariners-bow.md)
 _Weapon (shortbow), rare (requires Attunement)_
 
 This shortbow has multiple tiny lenses embedded in the body. These lenses allow the wielder a clearer view of their target, but also are magically enchanted to see through illusions and magical barriers. You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 Additionally, while aiming with the bow, you can see invisible creatures and objects, and targets do not benefit from partial cover.
 
-#### Ruby Signet
+#### [Ruby Signet](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/rings/ruby-signet.md)
 _Ring, legendary (requires Attunement)_
 
 This gold ring is inset with a ruby which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, you gain +1 to all your melee attack rolls and grapple checks as the attacker or defender. You also gain +1 to your Armor Class.
@@ -221,7 +221,7 @@ Additionally, the ring has 3 charges. If an ally within 30 feet of you is hit by
 
 **Curse.** The third time a charge has been expended, the ring glows brightly and infuses you with wild conjuration magic, subjecting you to a minor curse. While cursed in this manner, unless you have already used your reaction this round, you teleport and switch places as a reaction automatically. When the teleport occurs in this manner, the triggering attack automatically hits you, and you take an additional 1d4 Necrotic damage. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
-#### Sapphire Signet
+#### [Sapphire Signet](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/rings/sapphire-signet.md)
 _Ring, legendary (requires Attunement)_
 
 This ring is carved from animal bone and is inset with a sapphire which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, you have advantage on Constitution saving throws made to maintain concentration, and you can cast the _primal savagery_ cantrip.
