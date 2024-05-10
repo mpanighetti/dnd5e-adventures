@@ -41,4 +41,6 @@ _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-refe
 
 _[Consent in Gaming](https://www.montecookgames.com/store/product/consent-in-gaming/)_ © 2019 Monte Cook Games LLC.
 
+_Candlekeep Mysteries_ © 2021 Wizards of the Coast LLC.
+
 _Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast LLC.
