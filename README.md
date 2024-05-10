@@ -2,7 +2,13 @@
 
 This is a collection of adventures written for Dungeons & Dragons 5th Edition.
 
-Any adventure including potentially sensitive topics will have a prominent **content warning** at the start of the document. I recommend using Monte Cook's excellent **Consent in Gaming** as a safety tool for your games (see **Third-Party Content References** below), but feel free to use whatever such tools you prefer.
+## General notes
+
+At minimum, Dungeon Masters will need the _Dungeon Master's Guide_ and the _Monster Manual_ to run these adventures. Creatures and magic items from these sources are **bolded** and _italicized_ respectively. Stat blocks are included for new or reskinned creatures and magic items. If a creature or magic item is not in the _Dungeon Master's Guide_ or _Monster Manual_, it will either include a link (for content I've created) or be marked with a footnote indicating its source.
+
+Any adventure including potentially sensitive topics will be preceded with a relevant content warning. I encourage you to set clear boundaries and expectation at your gaming table, ensuring that we keep the hobby inclusive and inviting to all. I've found Monte Cook's **Consent in Gaming** to be and excellent safety tool for your games (see **Third-Party Content References** below), but feel free to use whatever such tools you prefer.
+
+Most of the adventures in this document rely on "theater of the mind" and do not include maps.
 
 ## Table of Contents
 
