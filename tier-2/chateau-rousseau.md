@@ -141,7 +141,9 @@ See **Characters** for Ulvaeus' interaction. The party can obtain the _Mariner's
 
 #### Spare Bedroom (R6)
 
-A single bed and nightstand are the only furniture in this sparse room. A **quickling** hiding under the bed will attack the party if disturbed, then dart out of the room. The nightstand has a _potion of speed_ in its drawer.
+A single bed and nightstand are the only furniture in this sparse room. A **quickling**[^👹] hiding under the bed will attack the party if disturbed, then dart out of the room. The nightstand has a _potion of speed_ in its drawer.
+
+[^👹]: _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 #### Bathroom (R7)
 
@@ -224,7 +226,9 @@ Additionally, the ring has 3 charges. If an ally within 30 feet of you is hit by
 #### [Sapphire Signet](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/rings/sapphire-signet.md)
 _Ring, legendary (requires Attunement)_
 
-This ring is carved from animal bone and is inset with a sapphire which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, you have advantage on Constitution saving throws made to maintain concentration, and you can cast the _primal savagery_ cantrip.
+This ring is carved from animal bone and is inset with a sapphire which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, you have advantage on Constitution saving throws made to maintain concentration, and you can cast the _primal savagery_[^🧿] cantrip.
+
+[^🧿]: _Source: Xanathar's Guide to Everything_
 
 Additionally, you can cast the _polymorph_ spell through the ring using your spellcasting ability and targeting yourself. While polymorphed, all of your attacks are considered magical for the purpose of overcoming resistance or immunity to attack damage. When selecting a target for an attack while polymorphed by the ring, you must first succeed on a DC 5 Intelligence saving throw, or your target is selected at random from all viable creatures in range as your bestial instincts temporarily take over.
 
@@ -322,7 +326,9 @@ If the party asks her for help, she will offer useful information. She learned h
 
 If the party has no books to offer, she will gladly take some life force from one volunteer in exchange. This sacrifice subjects the individual to a minor curse which reduces their Hit Point Maximum by 1d4 Hit Points. This reduction remains until the curse is removed.
 
-Like Ulvaeus, Neta also is happy to challenge the party to friendly combat for the information. If the party agrees, or if they attempt to attack Neta, a **swarm of animated books** begins to magically swirl about, and a **magma mephit** leaps out of the fireplace. Neta will let her creations fight for her but will defend herself if attacked.
+Like Ulvaeus, Neta also is happy to challenge the party to friendly combat for the information. If the party agrees, or if they attempt to attack Neta, a **swarm of animated books**[^📚] begins to magically swirl about, and a **magma mephit** leaps out of the fireplace. Neta will let her creations fight for her but will defend herself if attacked.
+
+[^📚]: _Source: Candlekeep Mysteries_
 
 #### Attributes
 
