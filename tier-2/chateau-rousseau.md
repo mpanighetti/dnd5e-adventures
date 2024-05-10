@@ -260,7 +260,7 @@ Anni refuses to engage in combat and will pass through the floor or ceiling to e
 
 Anni starts the adventure in the children's room (**R1**) with the party. Unlike the other two ghosts, Anni regularly roams the House and doesn't stick to a single room. She can be found in a random room on each floor not occupied by another Rousseau ghost or Goren, and will quickly leave if Goren arrives.
 
-### Ulvaeus Rousseau
+### [Ulvaeus Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/ulvaeus-rousseau.md)
 
 Ulvaeus is second-born and comes off as a competitive jock.
 
@@ -310,7 +310,7 @@ If the target is a creature, it must succeed on a DC 12 Strength saving throw, o
 
 If the target is an object that isn't being worn or carried, Ulvaeus hurls it up to 30 feet in any direction. Ulvaeus can use the object as a ranged weapon, attacking one creature along the object's path (+5 to hit) and dealing 5 (2d4) bludgeoning damage on a hit.
 
-### Neta Rousseau
+### [Neta Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/neta-rousseau.md)
 
 Neta is the second-youngest Rousseau. She enjoys reading and is always looking for new books, but at this point she's gone through everything in the House that she can find.
 
@@ -358,7 +358,7 @@ _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack r
 
 _**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage. The target must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### Goren Rousseau
+### [Goren Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/aberrations/goren-rousseau.md)
 
 The youngest of the Rousseau children, Goren was corrupted by an entity from the Far Realm. This mutation cursed him with an insatiable desire to consume the life force of other creatures, including his own siblings. He now roams the house, ashamed of his terrible actions but forever compelled to feed again.
 
