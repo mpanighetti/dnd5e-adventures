@@ -4,7 +4,7 @@ This is a collection of adventures written for Dungeons & Dragons 5th Edition.
 
 ## General notes
 
-At minimum, Dungeon Masters will need the _Dungeon Master's Guide_ and the _Monster Manual_ to run these adventures. Creatures and magic items from these sources are **bolded** and _italicized_ respectively. Stat blocks are included for new or reskinned creatures and magic items. If a creature or magic item is not in the _Dungeon Master's Guide_ or _Monster Manual_, it will either include a link (for content I've created) or be marked with a footnote indicating its source.
+At minimum, Dungeon Masters will need the _Dungeon Master's Guide_ and the _Monster Manual_ to run these adventures. Creatures and magic items from these sources are **bolded** and _italicized_ respectively. Stat blocks are also included for new or reskinned creatures and magic items; if a creature or magic item is not in the _Dungeon Master's Guide_ or _Monster Manual_, it will either include a link (for content I've created in other sources) or be marked with a footnote indicating its source.
 
 Any adventure including potentially sensitive topics will be preceded with a relevant content warning. I encourage you to set clear boundaries and expectation at your gaming table, ensuring that we keep the hobby inclusive and inviting to all. I've found Monte Cook's **Consent in Gaming** to be and excellent safety tool for your games (see **Third-Party Content References** below), but feel free to use whatever such tools you prefer.
 
