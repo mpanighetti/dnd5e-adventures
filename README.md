@@ -39,4 +39,6 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-_[Consent in Gaming](https://www.montecookgames.com/store/product/consent-in-gaming/)_ © 2019 Monte Cook Games, LLC.
+_[Consent in Gaming](https://www.montecookgames.com/store/product/consent-in-gaming/)_ © 2019 Monte Cook Games LLC.
+
+_Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast LLC.
