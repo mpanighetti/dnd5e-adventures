@@ -286,7 +286,7 @@ _Medium undead, lawful neutral_
 
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|14 (+2)|12 (+1)|11 (+1)|10 (+0)|13 (+1)|
+|16 (+3)|14 (+2)|12 (+1)|11 (+1)|10 (+0)|15 (+2)|
 
 - **Resistances:** Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from nonmagical attacks that aren't silvered
 - **Immunities:** Exhausted, Grappled, Necrotic, Paralyzed, Petrified, Poison, Prone, Restrained, Unconscious
@@ -346,7 +346,7 @@ _Medium undead, lawful neutral_
 
 _**Incorporeal Movement.**_ Neta can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 
-_**Spellcasting.**_ Neta is a 3rd level spellcaster (spellcasting ability is Intelligence, spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
+_**Spellcasting.**_ Neta is a 3rd-level spellcaster (spellcasting ability is Intelligence, spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
 - Cantrips (at will): _mind sliver_, _prestidigitation_
 - 1st level (4 slots): _detect magic_, _earth tremor_, _sleep_, _Tasha's hideous laughter_
@@ -356,7 +356,7 @@ _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack r
 
 #### Actions
 
-_**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage. The target must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage, and the target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### [Goren Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/aberrations/goren-rousseau.md)
 
@@ -405,8 +405,8 @@ _**Spider Climb.**_ Goren can climb difficult surfaces, including upside-down on
 
 _**Multiattack.**_ Goren makes up to three attacks: one with his bite, and two with his claws.
 
-_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) piercing damage, and the creature must make a DC 13 Constitution saving throw. On a failed save, the creature's Hit Point Maximum is reduced by the amount of damage taken from Goren's bite, Goren regains half that number of Hit Points, and the creature is frightened of Goren for 1 minute. The frightened creature can make a DC 13 Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success. The creature's Hit Point Maximum is restored to normal after a long rest.
+_**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) piercing damage, and the creature must make a DC 13 Constitution saving throw. On a failed save, the creature's Hit Point Maximum is reduced by the amount of damage taken from Goren's bite, Goren regains that number of Hit Points, and the creature is frightened of Goren for 1 minute. The frightened creature can make a DC 13 Wisdom saving throw at the end of each of its turns, ending the effect on itself on a success. The creature's Hit Point Maximum is restored to normal after a long rest.
 
 _**Claws.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
-_**Gravity Well (3/Day).**_ Goren redirects gravity in a line in front of him 60 feet long and 10 feet wide. Any creature or object in this space must make a DC 12 Dexterity saving throw. On a failed save, a target is knocked prone and is pulled up to 20 feet toward Goren. If this movement brings a creature within Goren's reach, he can attack the creature with his claws. On a successful save, a creature lands prone as it drops down and grabs the ground to hold its position.
+_**Gravity Well (3/Day).**_ Goren redirects gravity in a line in front of him 60 feet long and 10 feet wide. Any creature or object in this space must make a DC 13 Dexterity saving throw. On a failed save, a target is knocked prone and is pulled up to 20 feet toward Goren. If this movement brings a creature within Goren's reach, he can attack the creature with his claws. On a successful save, a creature lands prone as it drops down and grabs the ground to hold its position.
