@@ -17,6 +17,7 @@ Adventures are organized by tier of play and corresponding recommended party lev
 - Tier 1 (Levels 1-4)
 - Tier 2 (Levels 5-10)
   - [Chateau Rousseau](tier-2/chateau-rousseau.md)
+  - [Guadaña](tier-2/guadana.md)
 - Tier 3 (Levels 11-16)
 - Tier 4 (Levels 17-20)
 
@@ -43,10 +44,26 @@ Certain materials are included under fair use exemption of the U.S. Copyright La
 
 ## Third-Party Content References
 
+_Dungeon Master's Guide_ © 2014 Wizards of the Coast LLC.
+
 _[Systems Reference Document 5.1](https://dnd.wizards.com/resources/systems-reference-document)_ ("SRD 5.1") © 2016 Wizards of the Coast LLC. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+_Eberron: Rising from the Last War_ © 2019 Wizards of the Coast LLC.
 
 _[Consent in Gaming](https://www.montecookgames.com/store/product/consent-in-gaming/)_ © 2019 Monte Cook Games LLC.
 
+_Tasha's Cauldron of Everything_ © 2020 Wizards of the Coast LLC.
+
+_Mythic Odysseys of Theros_ © 2020 Wizards of the Coast LLC.
+
 _Candlekeep Mysteries_ © 2021 Wizards of the Coast LLC.
 
+_Fizban's Treasury of Dragons_ © 2021 Wizards of the Coast LLC.
+
+_Strixhaven: Curriculum of Chaos_ © 2021 Wizards of the Coast LLC.
+
+_Domains of Delight: A Feywild Accessory_ © 2021 Wizards of the Coast LLC.
+
 _Mordenkainen Presents: Monsters of the Multiverse_ © 2022 Wizards of the Coast LLC.
+
+_Journeys Through the Radiant Citadel_ © 2022 Wizards of the Coast LLC.
