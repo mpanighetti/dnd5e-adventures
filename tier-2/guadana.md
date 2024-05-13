@@ -74,7 +74,7 @@ When Ferran arrives and demands blood from the party, he summons three _skeleton
 
 Once Ferran's minions have been defeated, or once two party members fall unconscious, Ferran is satisfied with their payment and his bloodlust is slaked for the time being. He revives any fallen party members and allows them to complete their Guadaña celebrations in peace before Dídac sends them on their way home.
 
-After Ferran has finished torturing the party in his pursuit of blood payment, Dídac profusely apologizes for the unpleasantness, then gives every attendee some pan de muerto (bread of the dead) as a parting gift.
+After Ferran has finished torturing the party in his pursuit of blood payment, Dídac profusely apologizes for the unpleasantness, then gives every attendee some **pan de muerto (bread of the dead)** as a parting gift.
 
 > [!TIP]
 > The fight with Ferran's undead warriors is the only intended combat encounter, which should be adjusted as needed depending on party size and average level.
@@ -89,11 +89,11 @@ Any party members who want to participate can group up as a band. Each round con
 
 The DC for the group Performance check starts at 13. Each time the group succeeds on a check, the DC is lowered by 2 as the crowd is swayed toward them. Each time the group fails this check, the DC is increased by 1 as the crowd jeers them and supports the other band. The group neither succeeds nor fails on a tie.
 
-The challenge ends when the party's band either succeeds or fails three times. If the band wins, each participant is awarded with una calavera de azúcar (sugar skull).
+The challenge ends when the party's band either succeeds or fails three times. If the band wins, each participant is awarded with una **calavera de azúcar (sugar skull)**.
 
 ### Bobbing for Manzanas
 
-A large barrel full of cider has 7 candy apples floating on top. A creature that succeeds on a DC 14 Dexterity check can use their teeth to retrieve una manzana caramelada (candy apple).
+A large barrel full of cider has 7 candy apples floating on top. A creature that succeeds on a DC 14 Dexterity check can use their teeth to retrieve una **manzana caramelada (candy apple)**.
 
 ### High Striker
 
@@ -107,7 +107,7 @@ A participant is only permitted to draw a single card per day; any cards drawn i
 
 Once a card is drawn, it fades from existence, then reappears in the deck.
 
-If a participant becomes cursed by a drawn card, Dídac gives them some calabaza en tacha (candied pumpkin) as a consolation prize.
+If a participant becomes cursed by a drawn card, Dídac gives them some **calabaza en tacha (candied pumpkin)** as a consolation prize.
 
 > [!TIP]
 > The prizes and curses granted in Los Juegos de Guadaña are intended to be brought back into a longer campaign as short-term effects, but this one-shot could easily occur outside of any existing campaign canon as a standalone story.
@@ -131,7 +131,7 @@ Challengers reduced to 0 hit points are disqualified and healed by a medic for 3
 |  1  | **Dud!** The pepper is not spicy at all. You do not need to make a saving throw. |
 | 2-4 | **Common Pepper (DC 10).** This pepper has no special effects. |
 | 5-6 | **Sweet Heat Pepper (DC 12).** The pepper is hot but delicious. You do not have disadvantage on this saving throw if you would normally have it as a result of eating another pepper. |
-| 7-8 | **Chile Caótico (DC 16).** This pepper pulsates with wild magic energy. Before making your saving throw against this pepper, you must roll on the Wild Magic Surge table from the _Player’s Handbook_ to create a magical effect. If that effect is a spell, it is cast using a Spellcasting or Pact Magic feature of your choice that you have access to, it is too wild to be affected by Metamagic, and if it normally requires concentration, it doesn’t require concentration in this case; the spell lasts for its full duration. If you do not have the ability to cast spells normally, any spells cast through this effect use Constitution as your spellcasting ability and have a spell save DC of 10. |
+| 7-8 | **Chile Caótico (DC 16).** This pepper pulsates with wild magic energy. Before making your saving throw against this pepper, you must roll on the Wild Magic Surge table from the _Player's Handbook_ to create a magical effect. If that effect is a spell, it is cast using a Spellcasting or Pact Magic feature of your choice that you have access to, it is too wild to be affected by Metamagic, and if it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. If you do not have the ability to cast spells normally, any spells cast through this effect use Constitution as your spellcasting ability. |
 |  9  | **Cinnamon-Infused Pepper (DC 18).** If you fail your saving throw against this pepper, you belch or gasp a cloud of cinnamon dust into the air. The next challenge participant to eat a pepper has disadvantage on their saving throw. |
 | 10  | **Ghost Pepper (DC 20).** The spice is intense. You can see a faint aura around undead creatures for the next hour. |
 
@@ -185,7 +185,7 @@ The esqueleto is friendly toward you and your companions, and it acts on your tu
 ### [Dulce de Chile Caótico](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/dulce-de-chile-caotico.md)
 _Wondrous item, uncommon_
 
-This tiny chocolate is infused with pieces of a pale blue chili pepper which pulsate with wild magic energy. If you use an action to eat the dulce, you gain resistance to fire damage for 1 hour, then immediately roll on the Wild Magic Surge table from the _Player’s Handbook_ to create a magical effect. If that effect is a spell, it is cast using a Spellcasting or Pact Magic feature of your choice that you have access to, it is too wild to be affected by Metamagic, and if it normally requires concentration, it doesn’t require concentration in this case; the spell lasts for its full duration. If you do not have the ability to cast spells normally, any spells cast through this effect use Constitution as your spellcasting ability and have a spell save DC of 10.
+This tiny chocolate is infused with pieces of a pale blue chili pepper which pulsate with wild magic energy. If you use an action to eat the dulce, you gain resistance to fire damage for 1 hour, then immediately roll on the Wild Magic Surge table from the _Player's Handbook_ to create a magical effect. If that effect is a spell, it is cast using a Spellcasting or Pact Magic feature of your choice that you have access to, it is too wild to be affected by Metamagic, and if it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. If you do not have the ability to cast spells normally, any spells cast through this effect use Constitution as your spellcasting ability.
 
 ### [Manzana Caramelada](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/manzana-caramelada.md)
 _Wondrous item, uncommon_
@@ -227,7 +227,7 @@ _**Antimagic Susceptibility.**_ The esqueleto is incapacitated while in the area
 
 _**Jawbreaker.**_ If the esqueleto moves at least 10 feet straight toward a target and then hits it with a headbutt attack on the same turn, the target takes an extra 5 (2d4) damage, and if the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 
-_**Alfeñique Nature.**_ The esqueleto doesn’t require air, food, drink, or sleep. When the esqueleto is reduced to 0 hit points, it collapses into a pile of sugar dust and is destroyed.
+_**Alfeñique Nature.**_ The esqueleto doesn't require air, food, drink, or sleep. When the esqueleto is reduced to 0 hit points, it collapses into a pile of sugar dust and is destroyed.
 
 #### Actions
 
