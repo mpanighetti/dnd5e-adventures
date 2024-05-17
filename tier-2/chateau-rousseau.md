@@ -53,7 +53,7 @@ The party can take this time to introduce themselves to Anni and each other, but
   - Ulvaeus loves sports and hunting and is probably in the game room.
   - Neta loves to read and is usually in the library, though she's read every book in the house at this point.
   - Goren is probably wandering around looking for something to eat.
-- Goren became sick, so Lynistad put the children and the house here while she tried to find a way to make Goren better. She brings people here to keep him occupied. "Goren gets so lonely...' she sighs.
+- Goren became sick, so Lynistad put the children and the house here while she tried to find a way to make Goren better. She brings people here to keep him occupied. "Goren gets so lonely..." she sighs.
 
 As she discusses the situation, people might pick up on cues suggesting the real rationale for bringing them here. When pressed, with high Insight/Persuasion checks, or as accidental asides, Anni will reveal more information:
 
@@ -105,7 +105,7 @@ Connects all the F3 rooms and stairwells. The floor is covered with a deep burgu
 
 #### Play Room (R2)
 
-A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _charlatan's die_ and two _potions of healing_. There's a glass bowl of old candies on a table which become a **[swarm of trickered treats](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to pick a candy up.
+A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _charlatan's die_ [^🧿] and two _potions of healing_. There's a glass bowl of old candies on a table which become a **[swarm of trickered treats](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to pick a candy up.
 
 #### Lynistad's Room (R★)
 
@@ -143,15 +143,13 @@ See **Characters** for Ulvaeus' interaction. The party can obtain the _Mariner's
 
 A single bed and nightstand are the only furniture in this sparse room. A **quickling**[^👹] hiding under the bed will attack the party if disturbed, then dart out of the room. The nightstand has a _potion of speed_ in its drawer.
 
-[^👹]: _Source: Mordenkainen Presents: Monsters of the Multiverse_
-
 #### Bathroom (R7)
 
 This room has not been cleaned in ages and emits a putrid stench when entered. The bathtub is filled with a foul opaque liquid, but if someone dares to reach into the tub, they can find an _Ioun stone of fortitude_.
 
 #### Conservatory (R8)
 
-A curved glass window lets in an intense green light from the southeast and provides a clear view of the miasma outside. This light shines upon some seemingly healthy-looking plants, which have overgrown the tables and floors with vines and leaves which create difficult terrain. There is a chest under the tables by the window, partly obscured by the vines of a large purple flower sitting on the table directly above it. If any creature moves within 10 feet of the chest, the flower attacks (use the **violet fungus** stat block without multiattack). The chest contains two _potions of greater healing_ and the _Emerald Signet_.
+A curved glass window lets in an intense green light from the southeast and provides a clear view of the miasma outside. This light shines upon some seemingly healthy-looking plants, which have overgrown the tables and floors with vines and leaves which create difficult terrain. There is a chest under the tables by the window, partly obscured by the vines of a large purple flower sitting on the table directly above it. If any creature moves within 10 feet of the chest, the flower attacks (use the **violet fungus** stat block). The chest contains two _potions of greater healing_ and the _Emerald Signet_.
 
 ### F1
 
@@ -227,8 +225,6 @@ Additionally, the ring has 3 charges. If an ally within 30 feet of you is hit by
 _Ring, legendary (requires Attunement)_
 
 This ring is carved from animal bone and is inset with a sapphire which displays the Rousseau family seal in platinum lining on its surface. While Attuned to this ring, you have advantage on Constitution saving throws made to maintain concentration, and you can cast the _primal savagery_[^🧿] cantrip.
-
-[^🧿]: _Source: Xanathar's Guide to Everything_
 
 Additionally, you can cast the _polymorph_ spell through the ring using your spellcasting ability and targeting yourself. While polymorphed, all of your attacks are considered magical for the purpose of overcoming resistance or immunity to attack damage. When selecting a target for an attack while polymorphed by the ring, you must first succeed on a DC 5 Intelligence saving throw, or your target is selected at random from all viable creatures in range as your bestial instincts temporarily take over.
 
@@ -328,8 +324,6 @@ If the party has no books to offer, she will gladly take some life force from on
 
 Like Ulvaeus, Neta also is happy to challenge the party to friendly combat for the information. If the party agrees, or if they attempt to attack Neta, a **swarm of animated books**[^📚] begins to magically swirl about, and a **magma mephit** leaps out of the fireplace. Neta will let her creations fight for her but will defend herself if attacked.
 
-[^📚]: _Source: Candlekeep Mysteries_
-
 #### Attributes
 
 _Medium undead, lawful neutral_
@@ -354,8 +348,8 @@ _**Incorporeal Movement.**_ Neta can move through other creatures and objects as
 
 _**Spellcasting.**_ Neta is a 3rd-level spellcaster (spellcasting ability is Intelligence, spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
-- Cantrips (at will): _mind sliver_, _prestidigitation_
-- 1st level (4 slots): _detect magic_, _earth tremor_, _sleep_, _Tasha's hideous laughter_
+- Cantrips (at will): _mind sliver_ [^🥘], _prestidigitation_
+- 1st level (4 slots): _detect magic_, _earth tremor_ [^🔥], _sleep_, _Tasha's hideous laughter_
 - 2nd level (2 slots): _blindness/deafness_, _ray of enfeeblement_
 
 _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
@@ -416,3 +410,9 @@ _**Bite.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 
 _**Claws.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
 _**Gravity Well (3/Day).**_ Goren redirects gravity in a line in front of him 60 feet long and 10 feet wide. Any creature or object in this space must make a DC 13 Dexterity saving throw. On a failed save, a target is knocked prone and is pulled up to 20 feet toward Goren. If this movement brings a creature within Goren's reach, he can attack the creature with his claws. On a successful save, a creature lands prone as it drops down and grabs the ground to hold its position.
+
+[^🧿]: _Source: Xanathar's Guide to Everything_
+[^👹]: _Source: Mordenkainen Presents: Monsters of the Multiverse_
+[^📚]: _Source: Candlekeep Mysteries_
+[^🥘]: _Source: Tasha's Cauldron of Everything_
+[^🔥]: _Source: Elemental Evil Player's Companion_
