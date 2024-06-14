@@ -248,7 +248,9 @@ Lynistad has not confronted Goren or the ghosts of her other children since his 
 
 ### Anni Rousseau
 
-Annifried is the eldest Rousseau who currently haunts the House with her ghost siblings.
+#### Description
+
+**Annifried Rousseau** is the eldest Rousseau who currently haunts the House with her ghost siblings.
 
 #### Behavior
 
@@ -262,7 +264,9 @@ Anni starts the adventure in the children's room (**R1**) with the party. Unlike
 
 ### [Ulvaeus Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/ulvaeus-rousseau.md)
 
-Ulvaeus is second-born and comes off as a competitive jock.
+#### Description
+
+**Ulvaeus Rousseau** is the second-born child of the Rousseau family and comes off as a competitive jock.
 
 #### Behavior
 
@@ -312,7 +316,9 @@ If the target is an object that isn't being worn or carried, Ulvaeus hurls it up
 
 ### [Neta Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/neta-rousseau.md)
 
-Neta is the second-youngest Rousseau. She enjoys reading and is always looking for new books, but at this point she's gone through everything in the House that she can find.
+#### Description
+
+**Neta Rousseau** is the second-youngest Rousseau. She enjoys reading and is always looking for new books, but at this point she's gone through everything in the House that she can find.
 
 #### Behavior
 
@@ -360,7 +366,9 @@ _**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creatu
 
 ### [Goren Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/aberrations/goren-rousseau.md)
 
-The youngest of the Rousseau children, Goren was corrupted by an entity from the Far Realm. This mutation cursed him with an insatiable desire to consume the life force of other creatures, including his own siblings. He now roams the house, ashamed of his terrible actions but forever compelled to feed again.
+#### Description
+
+The youngest of the Rousseau children, **Goren Rousseau** was corrupted by an entity from the Far Realm. This mutation cursed him with an insatiable desire to consume the life force of other creatures, including his own siblings. He now roams the house, ashamed of his terrible actions but forever compelled to feed again.
 
 Goren's transformation does not have a prescribed fix, as even the great Lynistad Rousseau could not find a solution as she scours the planes cannot be undone by the party. Only death can grant him a release.
 
