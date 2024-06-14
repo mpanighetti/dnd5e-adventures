@@ -201,6 +201,8 @@ This traditional holiday bread always looks and smells as if it were freshly pul
 
 ### [Esqueleto de Azúcar](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/esqueleto-de-azucar.md)
 
+#### Description
+
 Superficially similar to an undead skeleton, an esqueleto de azúcar (sugar skeleton) is assembled from a sugar-based confection called alfeñique, then animated through magical means.
 
 #### Attributes
