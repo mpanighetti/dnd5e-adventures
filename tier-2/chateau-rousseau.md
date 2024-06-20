@@ -419,8 +419,8 @@ _**Claws.**_ _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6
 
 _**Gravity Well (3/Day).**_ Goren redirects gravity in a line in front of him 60 feet long and 10 feet wide. Any creature or object in this space must make a DC 13 Dexterity saving throw. On a failed save, a target is knocked prone and is pulled up to 20 feet toward Goren. If this movement brings a creature within Goren's reach, he can attack the creature with his claws. On a successful save, a creature lands prone as it drops down and grabs the ground to hold its position.
 
-[^🧿]: _Source: Xanathar's Guide to Everything_
-[^👹]: _Source: Mordenkainen Presents: Monsters of the Multiverse_
-[^📚]: _Source: Candlekeep Mysteries_
-[^🥘]: _Source: Tasha's Cauldron of Everything_
-[^🔥]: _Source: Elemental Evil Player's Companion_
+[^🧿]: Source: _Xanathar's Guide to Everything_
+[^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
+[^📚]: Source: _Candlekeep Mysteries_
+[^🥘]: Source: _Tasha's Cauldron of Everything_
+[^🔥]: Source: _Elemental Evil Player's Companion_

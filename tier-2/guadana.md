@@ -42,7 +42,7 @@ This tiny domain encompasses only a few hundred square yards of clearing amidst 
 
 ## Dídac and Ferran
 
-Dídac and Ferran, the hosts of Guadaña, are skeletal undead archfey. They both use the _bone knight_ stat block with a +4 proficiency bonus and the following traits:
+Dídac and Ferran, the hosts of Guadaña, are skeletal undead archfey. They both use the _bone knight_[^⚙️] stat block with a +4 proficiency bonus and the following traits:
 
 _**Creature Type.**_ The archfey is fey and undead.
 
@@ -103,17 +103,16 @@ A high striker carnival game with a mallet and a pressure pad. A creature that s
 
 Atop a short pedestal is a set of gilt, hand-painted cards with a leather case. With a DC 20 Intelligence (Arcana) check, a player might identify this as a _Deck of Many Things_, and it does function similarly, but the cards instead provide a series of effects similar to those of supernatural charms or magical curses. Dídac identifies this card game as "Muchas Cosas" ("Many Things") and insists it's completely different from whatever this "Deck of Many Things" is that the party speaks of.
 
-A participant is only permitted to draw a single card per day; any cards drawn in excess of this have no effect. As soon as they draw their card from the deck, its magic takes effect (see the Muchas Cosas table for all card effects; cards can be drawn from the Major Arcana cards in a tarot deck). Effects tied to existing resources reference the book in which they appear. Any curse subjected by a card lasts until the next dawn, which will not occur as long as the cursed creature remains in Guadaña.
+A participant is only permitted to draw a single card per day; any cards drawn in excess of this have no effect. As soon as they draw their card from the deck, its magic takes effect (see the Muchas Cosas table for all card effects; cards can be drawn from the Major Arcana cards in a tarot deck). Effects tied to existing resources reference the book in which they appear. Any curse subjected by a card lasts until the next dawn, which will not occur as long as the Cursed creature remains in Guadaña.
 
 Once a card is drawn, it fades from existence, then reappears in the deck.
 
-If a participant becomes cursed by a drawn card, Dídac gives them some **calabaza en tacha (candied pumpkin)** as a consolation prize.
+If a participant becomes Cursed by a drawn card, Dídac gives them some **calabaza en tacha (candied pumpkin)** as a consolation prize.
 
 > [!TIP]
 > The prizes and curses granted in Los Juegos de Guadaña are intended to be brought back into a longer campaign as short-term effects, but this one-shot could easily occur outside of any existing campaign canon as a standalone story.
 
   Almost all the awards are single- or limited-use, but one could increase their power for more potent or permanent effects; replacing them with blessings, feats, or epic boons would be a simple modification. Similarly, the curses all end at the next dawn (after leaving Guadaña) and can be removed with any spell or effect that ends curses, but these can also be made more potent and more difficult to cure. _Domains of Delight: A Feywild Accessory_ has many great suggestions for fey curses and punishments which were used as inspiration for some of the curses presented here, and has a table for more complex requirements to end fey curses.
-
 
 ### Pepper Challenge
 
@@ -140,27 +139,27 @@ The challenge ends when all but one participant are disqualified or drop out, or
 ##### Muchas Cosas
 |     Tarot Card     | Effect |
 |:------------------:|:-------|
-|      The Fool      | You are cursed. Until the curse is removed, your ears are magically replaced by a pair of soft, fuzzy donkey ears, and you occasionally bray while speaking. |
+|      The Fool      | You are Cursed. While Cursed in this manner, your ears are magically replaced by a pair of soft, fuzzy donkey ears, and you occasionally bray while speaking. |
 |    The Magician    | You gain a common or uncommon magic item that is yours to keep, but you must give up something that belongs to you in return. |
 | The High Priestess | You gain the ability to cast a spell of 4th level or lower once, without material components. You choose the spell, and your spellcasting ability for it is Charisma. |
 |     The Empress    | A _phoenix_ egg is transported to a random location in your world from the Elemental Plane of Fire. |
 |     The Emperor    | A dead adult _chromatic dragon_ in your world is resurrected, or if no such dragon corpses exist in your world, an adult chromatic dragon is transported to a random location in your world from another plane. If multiple dragons are available to be targeted by this effect, a random color is selected. The dragon knows your true name and is aware that you summoned it. |
 |   The Hierophant   | You gain two portents (similar to the effect of the School of Divination wizard's Portent feature). Roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn. Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls. |
 |     The Lovers     | You gain the ability to cast _charm person_ once at 1st level. When casting this spell in this manner, your spellcasting ability is Charisma. |
-|     The Chariot    | You gain the ability to summon a **flying chariot** to your location once, along with a _quetzalcoatlus_ to pull it. The chariot is large enough for two riders. After they are summoned, both the chariot and the quetzalcoatlus disappear at the next dawn, or if the quetzalcoatlus is reduced to 0 hit points. |
+|     The Chariot    | You gain the ability to summon a **flying chariot**[^🏺] to your location once, along with a _quetzalcoatlus_[^👹] to pull it. The chariot is large enough for two riders. After they are summoned, both the chariot and the quetzalcoatlus disappear at the next dawn, or if the quetzalcoatlus is reduced to 0 hit points. |
 |      Strength      | You gain the _Charm of Heroism_. |
 |     The Hermit     | You gain the _Charm of Animal Conjuring_. |
 |  Wheel of Fortune  | You can choose to either roll a d6 for fortune or ruin, or to draw another card, which takes effect instead of this card. If you choose to roll a d6, on an even result, you gain 1,000 gp worth of coins or gems (your choice), and on an odd result, you summon the [Avatar of Debt](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/avatar-of-debt.md). |
 |       Justice      | You gain the ability to cast _silvery barbs_ 3 times at 1st level. When casting this spell in this manner, your spellcasting ability for it is Charisma. |
-|   The Hanged Man   | You are cursed. Until the curse is removed, you smell like swamp gas, and no amount of bathing can rid you of this stench. |
-|        Death       | You are cursed. Until the curse is removed, you gain vulnerability to radiant damage, and spells can't restore hit points to you. |
+|   The Hanged Man   | You are Cursed. While Cursed in this manner, you smell like swamp gas, and no amount of bathing can rid you of this stench. |
+|        Death       | You are Cursed. While Cursed in this manner, you gain vulnerability to radiant damage, and spells can't restore hit points to you. |
 |     Temperance     | You gain the _Charm of Restoration_. |
-|      The Devil     | You are cursed. Until the curse is removed, you grow horns, a tail, or some other devilish features, and you detect as a fiend when subjected to _detect evil and good_ spells or similar magic. |
-|      The Tower     | You are cursed. Until the curse is removed, you become suspended in the air and you can move only by pushing or pulling against a fixed object or surface within reach, similar to the effect of the _levitate_ spell. |
+|      The Devil     | You are Cursed. While Cursed in this manner, you grow horns, a tail, or some other devilish features, and you detect as a fiend when subjected to _detect evil and good_ spells or similar magic. |
+|      The Tower     | You are Cursed. While Cursed in this manner, you become suspended in the air and you can move only by pushing or pulling against a fixed object or surface within reach, similar to the effect of the _levitate_ spell. |
 |      The Star      | You gain proficiency in a skill of your choice for 2d4 days. |
-|      The Moon      | You are cursed. Until the curse is removed, the sound of rattling bones fills your head while you are awake, drowning out all other sounds. |
+|      The Moon      | You are Cursed. While Cursed in this manner, the sound of rattling bones fills your head while you are awake, drowning out all other sounds. |
 |       The Sun      | Your body emits a holy light that sheds bright light in a 10 foot radius. A creature that ends its turn within the holy light must succeed on a DC 15 Constitution saving throw or it takes 1d6 radiant damage and is blinded until the end of its next turn. The lights shines through worn equipment and negates the effects of magical darkness within 10 feet of you. This effect ends after 1d4 days. |
-|      Judgment      | You are cursed. Until the curse is removed, you are magically transformed into a giant canary. You retain your languages, your ability to speak, and your mental ability scores (Intelligence, Wisdom, and Charisma). You otherwise have the statistics of a _giant canary_. |
+|      Judgment      | You are Cursed. While Cursed in this manner, you are magically transformed into a giant canary. You retain your languages, your ability to speak, and your mental ability scores (Intelligence, Wisdom, and Charisma). You otherwise have the statistics of a _giant canary_. |
 |      The World     | You gain the ability to cast _scrying_ once at 5th level, without material components. When casting this spell in this manner, your spellcasting ability for it is Charisma. |
 
 ## Premios
@@ -238,3 +237,7 @@ _**Multiattack.**_ The esqueleto makes two claw attacks.
 _**Claw.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 
 _**Headbutt.**_ _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage.
+
+[^⚙️]: Source: _Eberron: Rising from the Last War_
+[^🏺]: Source: _Mythic Odysseys of Theros_
+[^👹]: Source: _Mordenkainen Presents: Monsters of the Multiverse_
