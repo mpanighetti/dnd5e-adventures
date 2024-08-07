@@ -298,7 +298,7 @@ _Medium undead, lawful neutral_
 - **Languages:** Common, Elvish
 - **Challenge:** 2 (450 XP) **Proficiency Bonus:** +2
 
-#### Special traits
+#### Traits
 
 _**Incorporeal Movement.**_ Ulvaeus can move through other creatures and objects as if they were difficult terrain. They take 5 (1d10) force damage if they end their turn inside an object.
 
@@ -348,7 +348,7 @@ _Medium undead, lawful neutral_
 - **Languages:** Common, Elvish
 - **Challenge:** 2 (450 XP) **Proficiency Bonus:** +2
 
-#### Special traits
+#### Traits
 
 _**Incorporeal Movement.**_ Neta can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 
@@ -403,7 +403,7 @@ _Medium aberration, chaotic neutral_
 - **Languages:** Common, Deep Speech, Elvish
 - **Challenge:** 5 (1,800 XP) **Proficiency Bonus:** +3
 
-#### Special traits
+#### Traits
 
 _**Negative Self-Image.**_ When Goren can see his own reflection, he shields his eyes, causing him to be blinded. He then spends all his actions either trying to flee or trying to cover or destroy the reflection.
 
