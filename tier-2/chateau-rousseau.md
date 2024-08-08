@@ -109,7 +109,7 @@ A thick layer of dust covers all the furniture that would otherwise be brightly 
 
 #### Lynistad's Room (R★)
 
-This room has several enchantments on it to keep the children and other potential intruders away. It cannot be entered using the house's normal room randomization, its walls and door are impenetrable and prevent passage even by ghosts, and the door is protected by both an _arcane lock_ (abjuration) spell and a _glyph of warding_ (abjuration) trap. The glyph is on the inside of the door and is thus not visible from the hallway, but can be detected with _detect magic_ or similar magic effects. The glyph is set to activate if a creature other than Lynistad attempts to pass through the doorway, and the lock will similarly only allow entry by Lynistad.
+This room has several enchantments on it to keep the children and other potential intruders away. It cannot be entered using the house's normal room randomization, its walls and door are impenetrable and prevent passage even by ghosts, and the door is protected by both an _arcane lock_ (Abjuration) spell and a _glyph of warding_ (Abjuration) trap. The glyph is on the inside of the door and is thus not visible from the hallway, but can be detected with _detect magic_ or similar magic effects. The glyph is set to activate if a creature other than Lynistad attempts to pass through the doorway, and the lock will similarly only allow entry by Lynistad.
 
 If the glyph is activated, a stored _thunderwave_ is triggered which pushes any creatures around the doorway back into the hallway (DC 19 Constitution save), emits a thunderous boom heard throughout the house which alerts Goren, and also pushes the door shut and activates a second _arcane lock_. At this point the glyph is deactivated and the party could potentially enter the room if they can remove the second lock.
 
@@ -203,7 +203,7 @@ Additionally, the ring has 3 charges. You can cast spells through the ring using
 
 If you do not have the ability to cast spells normally, Wisdom is your spellcasting ability when casting spells through this ring. The ring regains all its charges at dawn.
 
-**Curse.** The first time a charge has been expended, the ring glows brightly and infuses you with wild necromancy magic, subjecting you to a minor curse. While cursed in this manner, every time an ally within 30 feet of you takes damage, that damage is split evenly between you and the ally before applying resistance or immunity. Damage you take in this manner cannot be reduced. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
+**Curse.** The first time a charge has been expended, the ring glows brightly and infuses you with wild Necromancy magic, subjecting you to a minor curse. While cursed in this manner, every time an ally within 30 feet of you takes damage, that damage is split evenly between you and the ally before applying resistance or immunity. Damage you take in this manner cannot be reduced. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
 #### [Mariner's Bow](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/weapons/mariners-bow.md)
 _Weapon (shortbow), rare (requires Attunement)_
@@ -219,7 +219,7 @@ This gold ring is inset with a ruby which displays the Rousseau family seal in p
 
 Additionally, the ring has 3 charges. If an ally within 30 feet of you is hit by an attack you can see, as a Reaction, you can expend a charge to magically teleport and switch places with the ally, turning yourself into the target of the attack. The original attack roll is compared to your Armor Class, potentially turning the hit into a miss. The ring regains all its charges at dawn.
 
-**Curse.** The third time a charge has been expended, the ring glows brightly and infuses you with wild conjuration magic, subjecting you to a minor curse. While cursed in this manner, unless you have already used your reaction this round, you teleport and switch places as a reaction automatically. When the teleport occurs in this manner, the triggering attack automatically hits you, and you take an additional 1d4 Necrotic damage. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
+**Curse.** The third time a charge has been expended, the ring glows brightly and infuses you with wild Conjuration magic, subjecting you to a minor curse. While cursed in this manner, unless you have already used your reaction this round, you teleport and switch places as a reaction automatically. When the teleport occurs in this manner, the triggering attack automatically hits you, and you take an additional 1d4 Necrotic damage. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
 #### [Sapphire Signet](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/rings/sapphire-signet.md)
 _Ring, legendary (requires Attunement)_
@@ -230,7 +230,7 @@ Additionally, you can cast the _polymorph_ spell through the ring using your spe
 
 If you do not have the ability to cast spells normally, Wisdom is your spellcasting ability when casting spells through this ring. Once you have cast _polymorph_ using the ring, it can't do so again until the next dawn.
 
-**Curse.** After the _polymorph_ spell ends, the ring glows brightly and infuses you with wild transmutation magic, subjecting you to a minor curse. While cursed in this manner, whenever you take damage, you must succeed on a DC 10 Wisdom saving throw or you are polymorphed into a sheep for 1 minute. You can repeat this saving throw at the end of each of your turns, ending the polymorph on a successful save. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
+**Curse.** After the _polymorph_ spell ends, the ring glows brightly and infuses you with wild Transmutation magic, subjecting you to a minor curse. While cursed in this manner, whenever you take damage, you must succeed on a DC 10 Wisdom saving throw or you are polymorphed into a sheep for 1 minute. You can repeat this saving throw at the end of each of your turns, ending the polymorph on a successful save. The curse persists even if you end possession of or Attunement to the ring, unless another creature Attunes to it. Otherwise, the curse ends at dawn.
 
 ## The Rousseau Family
 
