@@ -164,41 +164,41 @@ The challenge ends when all but one participant are disqualified or drop out, or
 
 ## Premios
 
-### [Atole](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/atole.md)
+### Atole
 _Wondrous item, uncommon_
 
 This ceramic pitcher contains three servings of a warm beverage made from corn meal. If you use an action to drink a serving of atole, you gain immunity to being frightened, paralyzed, or poisoned for 1 hour, ending such conditions immediately if you already have them.
 
-### [Calabaza en Tacha](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/calabaza-en-tacha.md)
+### Calabaza en Tacha
 _Wondrous item, uncommon_
 
 This bright orange slice of pumpkin was cooked with sugar and cinnamon sticks to infuse the gourd with sweet spices. If you use an action to eat the calabaza, you gain +3 to your armor class and Constitution saving throws for 1 hour.
 
-### [Calavera de Azúcar](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/calavera-de-azucar.md)
+### Calavera de Azúcar
 _Wondrous item, uncommon_
 
 This tiny sugar skull is decorated with flowers and bright colors. You can use an action to throw the calavera up to 20 feet. When the calavera lands, it shatters and transforms into un **esqueleto de azúcar (sugar skeleton)**. Use the stat block on this page to represent the esqueleto when summoned.
 
 The esqueleto is friendly toward you and your companions, and it acts on your turn. You can use a bonus action to command how the esqueleto moves and what action it takes, or to give it general orders, such as to attack your enemies. In the absence of such orders, the esqueleto follows you and defends itself. The esqueleto lasts until reduced to 0 hit points, upon which it collapses into a pile of sugar dust and is destroyed.
 
-### [Dulce de Chile Caótico](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/dulce-de-chile-caotico.md)
+### Dulce de Chile Caótico
 _Wondrous item, uncommon_
 
 This tiny chocolate is infused with pieces of a pale blue chili pepper which pulsate with wild magic energy. If you use an action to eat the dulce, you gain resistance to fire damage for 1 hour, then immediately roll on the Wild Magic Surge table from the _Player's Handbook_ to create a magical effect. If that effect is a spell, it is cast using a Spellcasting or Pact Magic feature of your choice that you have access to, it is too wild to be affected by Metamagic, and if it normally requires concentration, it doesn't require concentration in this case; the spell lasts for its full duration. If you do not have the ability to cast spells normally, any spells cast through this effect use Constitution as your spellcasting ability.
 
-### [Manzana Caramelada](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/manzana-caramelada.md)
+### Manzana Caramelada
 _Wondrous item, uncommon_
 
 This caramel-covered apple crackles faintly from the sound of bubbling cider infused inside. If you use an action to eat the manzana, you regain 10 (3d6) hit points. Any hit points remaining after you reach your maximum hit points are instead gained as temporary hit points.
 
-### [Pan de Muerto](https://github.com/mpanighetti/dnd5e-magic-items/blob/main/wondrous-items/pan-de-muerto.md)
+### Pan de Muerto
 _Wondrous item, uncommon_
 
 This traditional holiday bread always looks and smells as if it were freshly pulled from the oven. If you use an action to eat the pan de muerto, you regain 3 (1d6) hit points at the end of each of your turns for the next minute, and your food and drink requirements are satisfied for the next 1d4 days.
 
 ## Monstruous
 
-### [Esqueleto de Azúcar](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/esqueleto-de-azucar.md)
+### Esqueleto de Azúcar
 
 #### Description
 
