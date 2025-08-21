@@ -105,7 +105,7 @@ Connects all the F3 rooms and stairwells. The floor is covered with a deep burgu
 
 #### Play Room (R2)
 
-A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _charlatan's die_ [^🧿] and two _potions of healing_. There's a glass bowl of old candies on a table which become a **[swarm of trickered treats](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/trickered-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to pick a candy up.
+A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _charlatan's die_ [^🧿] and two _potions of healing_. There's a glass bowl of old candies on a table which become a **[Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to pick a candy up.
 
 #### Lynistad's Room (R★)
 
@@ -173,7 +173,7 @@ The dining table has five places set, presumably for the Rousseau family. The pl
 
 #### Closet (R11)
 
-A walk-in closet full of coats in varying states of decay. An **[animated pair of boots](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/animated-pair-of-boots.md)** and an **[animated corset](https://github.com/mpanighetti/dnd5e-monsters/blob/main/constructs/animated-corset.md)** are hiding inside and will attack if the players search the room. Once these threats are defeated, a pair of _winged boots_ can be found.
+A walk-in closet full of coats in varying states of decay. An **[Animated Pair of Boots](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-12-accursed.md#animated-pair-of-boots)** are hiding inside and will attack if the players search the room. Once these threats are defeated, a pair of _winged boots_ can be found.
 
 #### Ballroom (R12)
 
@@ -262,7 +262,7 @@ Anni refuses to engage in combat and will pass through the floor or ceiling to e
 
 Anni starts the adventure in the children's room (**R1**) with the party. Unlike the other two ghosts, Anni regularly roams the House and doesn't stick to a single room. She can be found in a random room on each floor not occupied by another Rousseau ghost or Goren, and will quickly leave if Goren arrives.
 
-### [Ulvaeus Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/ulvaeus-rousseau.md)
+### Ulvaeus Rousseau
 
 #### Description
 
@@ -314,7 +314,7 @@ If the target is a creature, it must succeed on a DC 12 Strength saving throw, o
 
 If the target is an object that isn't being worn or carried, Ulvaeus hurls it up to 30 feet in any direction. Ulvaeus can use the object as a ranged weapon, attacking one creature along the object's path (+5 to hit) and dealing 5 (2d4) bludgeoning damage on a hit.
 
-### [Neta Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/undead/neta-rousseau.md)
+### Neta Rousseau
 
 #### Description
 
@@ -364,7 +364,7 @@ _**Sunlight Sensitivity.**_ While in sunlight, Neta has disadvantage on attack r
 
 _**Paralyzing Touch.**_ _Melee Spell Attack:_ +5 to hit, reach 5 ft., one creature. Hit: 3 (1d6) cold damage, and the target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-### [Goren Rousseau](https://github.com/mpanighetti/dnd5e-monsters/blob/main/aberrations/goren-rousseau.md)
+### Goren Rousseau
 
 #### Description
 
