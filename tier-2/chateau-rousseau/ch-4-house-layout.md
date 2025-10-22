@@ -79,7 +79,7 @@ The walls are lined with bookshelves, and a lit fireplace can be seen across fro
 
 ### Game Room (R5)
 
-A cozy room with a billiards table in the center, and comfy-looking armchairs in the corners. A young elven man is holding a cue stick and eyeing his shot until he notices you enter. The man is **[Ulvaeus Rousseau](ap-b-ulvaeus-rousseau.md#ulvaeus-rousseau)**; see **Characters** for Ulvaeus' interaction. The party can obtain the _[Mariner's Bow](ap-a-magic-items.md#mariners-bow)_ here if they can best Ulvaeus either at billiards or in combat.
+A cozy room with a billiards table in the center, and comfy-looking armchairs in the corners. A young elven man is holding a cue stick and eyeing his shot until he notices you enter. The man is **[Ulvaeus Rousseau](ap-b-rousseau-family.md#ulvaeus-rousseau)**; see **Characters** for Ulvaeus' interaction. The party can obtain the _[Mariner's Bow](ap-a-magic-items.md#mariners-bow)_ here if they can best Ulvaeus either at billiards or in combat.
 
 ### Spare Bedroom (R6)
 
