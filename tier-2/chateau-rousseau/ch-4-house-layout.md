@@ -119,7 +119,7 @@ This walk-in closet is filled with coats in varying states of moth-eaten decay. 
 
 ### Ballroom (R12)
 
-Goren can initially be found in this room. The ballroom contains an open floor suitable for dancing and some dusty instruments in the corners, including a piano and a harp. If Goren has not become aware of the party's presence, he will meander in and out of this room until discovered.
+**[Goren Rousseau](ap-b-rousseau-family.md#goren-rousseau)** can initially be found in this room. The ballroom contains an open floor suitable for dancing and some dusty instruments in the corners, including a piano and a harp. If Goren has not become aware of the party's presence, he will meander in and out of this room until discovered.
 
 ---
 
