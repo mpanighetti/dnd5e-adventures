@@ -5,3 +5,9 @@
 **Developers:** Mario Panighetti (lead)
 
 **Special Thanks to My Playtesters:** Graeme Hart, John Filleau, Rachel Garcia, [TigerLilyNoh](https://tigerlilynoh.tumblr.com), [Haru](https://twitter.com/200dollarHaru), Jane, Jenn Marshall, Jennifer Panighetti, Kal, Scott Reno, [Jon Shingler](https://github.com/Jmanrules007), Arthur Winings
+
+## Third-Party Content References
+
+The materials below are referenced under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by the copyright holders and do not constitute any license or agreement with the copyright holders.
+
+_[Consent in Gaming](https://www.montecookgames.com/store/product/consent-in-gaming/)_ © 2019 Monte Cook Games LLC.
