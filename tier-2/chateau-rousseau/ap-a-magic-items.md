@@ -8,8 +8,8 @@ Lynistad Rousseau created three rings to magically seal Chateau Rousseau, each i
 
 ## Magic Item Descriptions
 
-### Diviner's Die  
-Wondrous Item, common (requires attunement)
+### Diviner's Die
+_Wondrous Item, common (requires attunement)_
 
 The sides on this six-sided die swirl faintly with sparkling starlight, granting you a limited ability to predict future events.
 
