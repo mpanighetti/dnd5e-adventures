@@ -4,7 +4,7 @@
 
 **Developers:** Mario Panighetti (lead)
 
-**Special Thanks to My Playtesters:** Aeden Berman, Dylan Berman, Elena Berman, Jennifer Panighetti, Angela Pappachan, RayeAnn Pappachan
+**Special Thanks to My Playtesters:** Aeden, Angela, [Danman26](https://github.com/Danman26), Elena, Jenny Panighetti, and RayeAnn
 
 ## Third-Party Content References
 
