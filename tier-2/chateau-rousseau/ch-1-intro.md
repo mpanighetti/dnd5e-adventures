@@ -12,4 +12,4 @@ In either case, all the spirits trapped inside the house, including the other Ro
 
 ---
 
-[Chapter 2: Suggested House Rules ➡️](ch-2-house-rules.md) | [Home ⬆️](index.md)
+[Home ⬆️](index.md) | [Chapter 2: Suggested House Rules ➡️](ch-2-house-rules.md)
