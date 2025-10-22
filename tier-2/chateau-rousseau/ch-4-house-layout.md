@@ -53,7 +53,7 @@ This hallways connects all the F3 rooms and stairwells. The floor is covered wit
 
 A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _[Diviner's Die](ap-a-magic-items.md#diviners-die)_ and two _Potions of Healing_. There's a glass bowl of old candies on a table which become a **[Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to take a candy.
 
-### Lynistad's Room (R\★)
+### Lynistad's Room (R★)
 
 This room has several enchantments on it to keep the children and other potential intruders away. It cannot be entered using the house's normal room randomization, its walls and door are impenetrable and prevent passage even by ghosts, and the door is protected by both an _Arcane Lock_ (Abjuration) spell and a _Glyph of Warding_ trap. The glyph is on the inside of the door and is thus not visible from the hallway, but can be detected with _Detect Magic_ or similar magic effects. The glyph is set to activate if a creature other than Lynistad attempts to pass through the doorway, and the lock will similarly only allow entry by Lynistad.
 
