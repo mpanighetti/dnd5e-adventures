@@ -5,7 +5,7 @@ _**By Mario Panighetti**_
 **Level:** 5
 
 > [!WARNING]
-> **CONTENT WARNING:** This one-shot adventure contains mentions of parental neglect, child death, and cannibalism, though none of these are depicted explicitly in the current events of the story and are only referred to in retrospect.
+> **CONTENT WARNING:** This one-shot adventure contains mentions of parental neglect and child death, though none of these are depicted explicitly in the current events of the story and are only referred to in retrospect.
 
 ## Objective
 
