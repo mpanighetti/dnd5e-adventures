@@ -51,7 +51,7 @@ This hallways connects all the F3 rooms and stairwells. The floor is covered wit
 
 ### Play Room (R2)
 
-A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _[Diviner's Die](#diviners-die)_ and two _Potions of Healing_. There's a glass bowl of old candies on a table which become a **[Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to take a candy.
+A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _[Diviner's Die](ap-a-magic-items.md#diviners-die)_ and two _Potions of Healing_. There's a glass bowl of old candies on a table which become a **[Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to take a candy.
 
 ### Lynistad's Room (R\★)
 
@@ -61,7 +61,7 @@ If the glyph is activated, a stored _Thunderwave_ is triggered which pushes any 
 
 Though these spells make entry seemingly impossible at first glance, a dumbwaiter connected to the kitchen downstairs could be ridden by pulling a rope and pulley. A pull rope next to the dumbwaiter door can ring a bell in the kitchen.
 
-The room is lavishly decorated with a large bed, a private bath, and a plush red rug. Magic charms seem to prevent dust from settling on the surfaces. A chest at the foot of the bed is filled with gold and precious gems worth 300gp total, along with what appears to be a _Bag of Holding_ (but is actually a _Bag of Devouring_), a _Potion of Greater Healing_, and a _Spell Scroll_ containing the _Remove Curse_ spell. A small jewelry box on the nightstand contains the _[Ruby Signet](#ruby-signet)_.
+The room is lavishly decorated with a large bed, a private bath, and a plush red rug. Magic charms seem to prevent dust from settling on the surfaces. A chest at the foot of the bed is filled with gold and precious gems worth 300gp total, along with what appears to be a _Bag of Holding_ (but is actually a _Bag of Devouring_), a _Potion of Greater Healing_, and a _Spell Scroll_ containing the _Remove Curse_ spell. A small jewelry box on the nightstand contains the _[Ruby Signet](ap-a-magic-items.md#ruby-signet)_.
 
 ### Servants' Quarters (R3)
 
@@ -75,11 +75,11 @@ This hallway connects all the F2 rooms and stairwells. The floor is covered with
 
 ### Library (R4)
 
-The walls are lined with bookshelves, and a lit fireplace can be seen across from the doorway. A young woman with pointed ears is floating in front of the fire, its light bending through and around her semitransparent body. She moves her hands like a conductor, and the books move in accordance, dancing in and out of the shelves as she examines their pages fervently. The woman is **[Neta Rousseau](#neta-rousseau)**; see **Characters** for Neta's interaction. The party can press Neta for information on where to find the signet rings and the secret entrance to Lynistad's room, but she doesn't tend to give such information without a cost.
+The walls are lined with bookshelves, and a lit fireplace can be seen across from the doorway. A young woman with pointed ears is floating in front of the fire, its light bending through and around her semitransparent body. She moves her hands like a conductor, and the books move in accordance, dancing in and out of the shelves as she examines their pages fervently. The woman is **[Neta Rousseau](ap-b-rousseau-family.md#neta-rousseau)**; see **Characters** for Neta's interaction. The party can press Neta for information on where to find the signet rings and the secret entrance to Lynistad's room, but she doesn't tend to give such information without a cost.
 
 ### Game Room (R5)
 
-A cozy room with a billiards table in the center, and comfy-looking armchairs in the corners. A young elven man is holding a cue stick and eyeing his shot until he notices you enter. The man is **[Ulvaeus Rousseau](#ulvaeus-rousseau)**; see **Characters** for Ulvaeus' interaction. The party can obtain the _[Mariner's Bow](#mariners-bow)_ here if they can best Ulvaeus either at billiards or in combat.
+A cozy room with a billiards table in the center, and comfy-looking armchairs in the corners. A young elven man is holding a cue stick and eyeing his shot until he notices you enter. The man is **[Ulvaeus Rousseau](ap-b-ulvaeus-rousseau.md#ulvaeus-rousseau)**; see **Characters** for Ulvaeus' interaction. The party can obtain the _[Mariner's Bow](ap-a-magic-items.md#mariners-bow)_ here if they can best Ulvaeus either at billiards or in combat.
 
 ### Spare Bedroom (R6)
 
@@ -91,7 +91,7 @@ This room has not been cleaned in ages and emits a putrid stench when entered. T
 
 ### Conservatory (R8)
 
-A curved glass window lets in an intense green light from the southeast and provides a clear view of the miasma outside. This light shines upon some seemingly healthy-looking plants, which have overgrown the tables and floors with vines and leaves which create difficult terrain. There is a chest under the tables by the window, partly obscured by the vines of a large purple flower sitting on the table directly above it. The flower attacks any creature that moves within 10 feet of it; use the **Violet Fungus** stat block with 45 HP (10d8) and Vulnerability to Fire damage. The chest contains two _Potions of Greater Healing_ and the _[Emerald Signet](#emerald-signet)_.
+A curved glass window lets in an intense green light from the southeast and provides a clear view of the miasma outside. This light shines upon some seemingly healthy-looking plants, which have overgrown the tables and floors with vines and leaves which create difficult terrain. There is a chest under the tables by the window, partly obscured by the vines of a large purple flower sitting on the table directly above it. The flower attacks any creature that moves within 10 feet of it; use the **Violet Fungus** stat block with 45 HP (10d8) and Vulnerability to Fire damage. The chest contains two _Potions of Greater Healing_ and the _[Emerald Signet](ap-a-magic-items.md#emerald-signet)_.
 
 ## F1
 
@@ -123,4 +123,4 @@ Goren can initially be found in this room. The ballroom contains an open floor s
 
 ---
 
-[⬅️ Chapter 3: House Mechanics](ch-3-house-mechanics.md) | [Home ⬆️](index.md) | [Appendix A: Magic Items ➡️](ap-1-magic-items.md)
+[⬅️ Chapter 3: House Mechanics](ch-3-house-mechanics.md) | [Home ⬆️](index.md) | [Appendix A: Magic Items ➡️](ap-a-magic-items.md)
