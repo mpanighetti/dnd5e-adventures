@@ -1,6 +1,6 @@
 # Chapter 3: House Mechanics
 
-The party begins this adventure in the children's room in the attic (**R1**). They can move freely between any room and hallway (with the exception of Lynistad's room in **R\***), but will quickly discover that Chateau Rousseau's rooms are a shifting maze, making navigation difficult at first.
+The party begins this adventure in the children's room in the attic (**R1**). They can move freely between any room and hallway (with the exception of Lynistad's room in **R★**), but will quickly discover that Chateau Rousseau's rooms are a shifting maze, making navigation difficult at first.
 
 Any time a creature opens the door to a room from a hallway (except for Lynistad's room), roll a d12. The number rolled corresponds to a room number included after every room title in **House Layout** (except Lynistad's room) and determines which room is presented behind the door. This connection between doorway and room persists until the door is closed, resulting in one of two possibilities:
 
