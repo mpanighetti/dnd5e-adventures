@@ -4,7 +4,7 @@
 
 **Developers:** Mario Panighetti (lead)
 
-**Special Thanks to My Playtesters:** John Filleau, Rachel Garcia, Graeme Hart, [Haru](https://twitter.com/200dollarHaru), Jane, Kal, Jenn Marshall, Jennifer Panighetti, Scott Reno, [Jon Shingler](https://github.com/Jmanrules007), [TigerLilyNoh](https://tigerlilynoh.tumblr.com), and Arthur Winings
+**Special Thanks to My Playtesters:** Art, Graeme, [Haru](https://twitter.com/200dollarHaru), Jane, [Jmanrules007](https://github.com/Jmanrules007), John, Kal, Jenn, Jenny Panighetti, [rae-gar-targaryen](https://rae-gar-targaryen.tumblr.com), Scott, [TigerLilyNoh](https://tigerlilynoh.tumblr.com)
 
 ## Third-Party Content References
 
