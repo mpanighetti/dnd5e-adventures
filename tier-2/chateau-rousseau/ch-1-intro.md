@@ -1,4 +1,4 @@
-## Chapter 1: Introduction
+# Chapter 1: Introduction
 
 The party's goal is to escape Chateau Rousseau, a mysterious mansion trapped in a demiplane, filled with unknown dangers. There are multiple prescribed methods of achieving this:
 
