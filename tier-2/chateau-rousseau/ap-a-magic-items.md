@@ -4,7 +4,7 @@ Items are listed in alphabetical order. All items listed here serve specific pur
 
 ## Signet Rings
 
-Lynistad Rousseau created three rings to magically seal Chateau Rousseau, each inset with a different precious stone and bearing her family seal. To open the front door from inside the house, one or more creautres must Attune to all three rings and press them against corresponding pads around the door's interior, but each ring also granst individual magical abilities corresponding to their magical domains. If a character Attunes to a Signet Ring, provide the player with the initial item description, but omit the effects of its curse until the curse's conditions are triggered. If a Signet Ring grants the ability to cast a spell, Wisdom is your spellcasting ability when casting spells through the ring.
+Lynistad Rousseau created three rings to magically seal Chateau Rousseau, each inset with a different precious stone and bearing her family seal. To open the front door from inside the house, one or more creautres must Attune to all three rings and press them against corresponding pads around the door's interior, but each ring also granst individual magical abilities corresponding to their magical domains. If a character Attunes to a _Signet Ring_, provide the player with the initial item description, but omit the effects of its curse until the curse's conditions are triggered. If a _Signet Ring_ grants the ability to cast a spell, Wisdom is your spellcasting ability when casting spells through the ring.
 
 ## Magic Item Descriptions
 

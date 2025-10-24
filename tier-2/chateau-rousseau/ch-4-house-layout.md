@@ -61,7 +61,7 @@ If the glyph is activated, a stored _Thunderwave_ is triggered which pushes any 
 
 Though these spells make entry seemingly impossible at first glance, a dumbwaiter connected to the kitchen downstairs could be ridden by pulling a rope and pulley. A pull rope next to the dumbwaiter door can ring a bell in the kitchen.
 
-The room is lavishly decorated with a large bed, a private bath, and a plush red rug. Magic charms seem to prevent dust from settling on the surfaces. A chest at the foot of the bed is filled with gold and precious gems worth 300gp total, along with what appears to be a _Bag of Holding_ (but is actually a _Bag of Devouring_), a _Potion of Greater Healing_, and a _Spell Scroll_ containing the _Remove Curse_ spell. A small jewelry box on the nightstand contains the _[Ruby Signet](ap-a-magic-items.md#ruby-signet)_.
+The room is lavishly decorated with a large bed, a private bath, and a plush red rug. Magic charms seem to prevent dust from settling on the surfaces. A chest at the foot of the bed is filled with gold and precious gems worth 300 GP total, along with what appears to be a _Bag of Holding_ (actually a _Bag of Devouring_), a _Potion of Greater Healing_, and a _Spell Scroll_ containing the _Remove Curse_ spell. A small jewelry box on the nightstand contains the _[Ruby Signet](ap-a-magic-items.md#ruby-signet)_.
 
 ### Servants' Quarters (R3)
 
@@ -75,7 +75,7 @@ This hallway connects all the F2 rooms and stairwells. The floor is covered with
 
 ### Library (R4)
 
-The walls are lined with bookshelves, and a lit fireplace can be seen across from the doorway. A young woman with pointed ears is floating in front of the fire, its light bending through and around her semitransparent body. She moves her hands like a conductor, and the books move in accordance, dancing in and out of the shelves as she examines their pages fervently. The woman is **[Neta Rousseau](ap-b-rousseau-family.md#neta-rousseau)**; see **Characters** for Neta's interaction. The party can press Neta for information on where to find the signet rings and the secret entrance to Lynistad's room, but she doesn't tend to give such information without a cost.
+The walls are lined with bookshelves, and a lit fireplace can be seen across from the doorway. A young woman with pointed ears is floating in front of the fire, its light bending through and around her semitransparent body. She moves her hands like a conductor, and the books move in accordance, dancing in and out of the shelves as she examines their pages fervently. The woman is **[Neta Rousseau](ap-b-rousseau-family.md#neta-rousseau)**; see **Characters** for Neta's interaction. The party can press Neta for information on where to find the _[Signet Rings](ap-a-magic-items.md#signet-rings)_ and the secret entrance to Lynistad's room, but she doesn't tend to give such information without a cost.
 
 ### Game Room (R5)
 
@@ -99,7 +99,7 @@ A curved glass window lets in an intense green light from the southeast and prov
 
 Connects all the F1 rooms and stairwells and leads to the front door. The floor is covered with a royal blue carpet.
 
-The front door has no handle and no keyhole. Instead, its surface is inset with three circular pads, each with a different-colored ring around it: red, green, and blue. These pads correspond to the signet rings hidden throughout the house; once all three rings are placed against their matching pads, the door will open and the House can be exited by anyone inside.
+The front door has no handle and no keyhole. Instead, its surface is inset with three circular pads, each with a different-colored ring around it: red, green, and blue. These pads correspond to the _Signet Rings_ hidden throughout the house; once all three rings are placed against their matching pads, the door will open and the House can be exited by anyone inside.
 
 ### Kitchen (R9)
 
@@ -107,7 +107,7 @@ The kitchen is the only room in the house with an adjoining room; a door to the 
 
 A small door to the northwest reveals a dumbwaiter with a shaft leading up to Lynistad's room; creatures can climb into the elevator one at a time and ride between the rooms by pulling the rope and pulley. There's a small bell above the door with a wire disappearing into the wall, which can be rung from Lynistad's room.
 
-A metal door with a mirrored surface to the west is latched shut but unlocked. This door contains a walk-in ice box used to preserve meats and kept magically cold. Whoever opens the door first makes a DC 15 Dexterity saving throw as a cold wind blasts out of the freezer. On a failed save, the creature takes 7 (2d6) cold damage and is knocked prone. On a successful save, the cold damage is halved and they are not knocked prone. Once the door is opened, the wind dissipates and the space can be entered normally. Inside the freezer, the _Sapphire Signet_ can be found under a layer of frost.
+A metal door with a mirrored surface to the west is latched shut but unlocked. This door contains a walk-in ice box used to preserve meats and kept magically cold. Whoever opens the door first makes a DC 15 Dexterity saving throw as a cold wind blasts out of the freezer. On a failed save, the creature takes 7 (2d6) cold damage and is knocked prone. On a successful save, the cold damage is halved and they are not knocked prone. Once the door is opened, the wind dissipates and the space can be entered normally. Inside the freezer, the _[Sapphire Signet](ap-a-magic-items.md#sapphire-signet)_ can be found under a layer of frost.
 
 ### Dining Room (R10)
 
