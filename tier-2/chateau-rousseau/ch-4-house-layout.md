@@ -51,7 +51,7 @@ This hallways connects all the F3 rooms and stairwells. The floor is covered wit
 
 ### Play Room (R2)
 
-A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _[Diviner's Die](ap-a-magic-items.md#diviners-die)_ and two _Potions of Healing_. There's a glass bowl of old candies on a table which become a **[Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to take a candy.
+A thick layer of dust covers all the furniture that would otherwise be brightly colored. Various boxes sit about filled with ancient toys in varying states of deterioration. Searching the chests reveals a _[Diviner's Die](ap-a-magic-items.md#diviners-die)_ and two _Potions of Healing_. There's a glass bowl of old candies on a table which become a **[Swarm of Trickered Treats](https://github.com/wavebirddash/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#swarm-of-trickered-treats)** that attacks whoever attempts to take a candy.
 
 ### Lynistad's Room (R★)
 
@@ -115,7 +115,7 @@ The dining table has five places set, presumably for the Rousseau family. The pl
 
 ### Closet (R11)
 
-This walk-in closet is filled with coats in varying states of moth-eaten decay. An **[Animated Pair of Boots](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-12-accursed.md#animated-pair-of-boots)** are hiding inside and will attack if the players search the room. If the boots are killed, they become a pair of _Winged Boots_.
+This walk-in closet is filled with coats in varying states of moth-eaten decay. An **[Animated Pair of Boots](https://github.com/wavebirddash/dnd5e-030crc/blob/main/2021-10-12-accursed.md#animated-pair-of-boots)** are hiding inside and will attack if the players search the room. If the boots are killed, they become a pair of _Winged Boots_.
 
 ### Ballroom (R12)
 
